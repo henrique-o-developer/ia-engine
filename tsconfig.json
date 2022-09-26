@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "module": "System",
+        "lib": [
+            "ES5",
+            "ES2022",
+            "DOM"
+        ],
+        "target": "ES5"
+    },
+    "include": [
+        "./*",
+        "./*/*"
+    ]
+}
